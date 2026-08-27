@@ -35,3 +35,21 @@ CodeAlpha_DataScience/
 │   └── Task_4_Sales_Prediction.ipynb
 │
 └── README.md
+
+---
+
+## Task 1 Iris Flower Classification
+
+https://colab.research.google.com/drive/1b6DFlgYc485O5o2NkGiH8keT-NqciHo3?usp=drive_link
+
+## Task 2 Unemployment Analysis
+
+https://colab.research.google.com/drive/136PIr6LF7CUx9raqDjI4hLK5NXCLsc6a?usp=drive_link
+
+## Task 3 Car Price Prediction
+
+https://colab.research.google.com/drive/1mYD1PJfmT7NVz-nZUCxli0CVFV8yHDMD?usp=drive_link
+
+## Task 4 Sales Prediction
+
+https://colab.research.google.com/drive/1H4Bv9HAgBaVEA-Bp8C-s8vKhPcfpA6SZ?usp=drive_link
